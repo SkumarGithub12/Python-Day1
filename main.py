@@ -5,3 +5,13 @@
 
 # name=input()
 # print(len(name))
+
+# name = input("what is your name?")
+# len = len(name)
+# print(len)
+
+# name = "Orange"
+# print(name)
+
+# name = "Apple"
+# print(name)
